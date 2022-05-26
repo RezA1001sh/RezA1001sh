@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RezA1001sh
 - 👀 I’m interested in developing 
-- 🌱 I’m currently learning kotlin 
+- 🌱 I’m currently learning web developing (front-end) 
 - 💞️ I’m looking to collaborate on ...
 - 📫 insta: rezashamsipour_98
 
