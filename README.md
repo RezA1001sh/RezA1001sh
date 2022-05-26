@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing 
 - 🌱 I’m currently learning web developing (front-end) 
 - 💞️ I’m looking to collaborate on ...
-- 📫 insta: rezashamsipour_98
+- 📫 insta: reza_shamsipour98
 
 <!---
 RezA1001sh/RezA1001sh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
